@@ -1,0 +1,44 @@
+body {
+  font-family:Arial,sans-serif;
+  font-size: 16 px;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: red;
+  padding: 20px;
+  color: blue;
+  text-align: center;
+ }
+nav {
+  background-color: green;
+  padding: 10px;
+  text-align: center;
+}
+main
+{
+  background-color: yellow;
+  font-size: 18px;
+  padding: 20px;
+}
+footer {
+  background-color: violet;
+  padding: 10px;
+  text-align:  center;
+ }
+li{
+ display: inline-block;
+ width: 150px;
+ padding: 5px;
+}
+p{
+  line-height:1.6
+ }
+img{
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow:2px 2px 8px rgba(0,0,0,0.2);
+  display: block;
+  margin: 20px auto;
+} 
